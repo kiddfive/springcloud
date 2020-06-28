@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:8-alpine
 #FROM frolvlad/alpine-oraclejdk8:slim
 #FROM daocloud.io/java:8
 MAINTAINER Ivan.Luo
