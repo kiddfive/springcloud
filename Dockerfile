@@ -1,4 +1,5 @@
-FROM frolvlad/alpine-oraclejdk8:slim
+FROM fabric8/java-alpine-openjdk8-jdk
+#FROM frolvlad/alpine-oraclejdk8:slim
 #FROM daocloud.io/java:8
 MAINTAINER Ivan.Luo
 VOLUME /tmp
